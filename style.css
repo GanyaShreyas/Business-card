@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 20px;
+    color: #2b2839;
+    background:#ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+}
+.pict {
+    width: 350px;
+}
+body {
+    margin: 20px;
+}
